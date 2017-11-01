@@ -5,8 +5,8 @@ Python script to remove all default VPCs from all regions in AWS.
 `pip install botocore boto3`
 
 #### Before running:
-Ensure AWS credentials are ready. (e.g. ~/.aws/credential) 
-See Boto [configuring credentials](http://boto3.readthedocs.io/en/latest/guide/configuration.html) 
+Ensure AWS credentials are ready (e.g. ~/.aws/credential).  See Boto [configuring credentials](http://boto3.readthedocs.io/en/latest/guide/configuration.html) 
+
 Quickest way is to use `aws configure` (need AWS CLI installed)
 
 #### Usage:
